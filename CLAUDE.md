@@ -4,7 +4,7 @@
 
 **potential-match** — GPU-accelerated image recognition for a digital zine. Explores a ProQuest Vogue Archive of "How To" articles (1893–2012) through permuted title fragments, using visual clustering, tagging, and semantic search.
 
-Collaboration with Linda van Deursen.
+Independent iteration on a class assignment from Linda van Deursen (the original exists as a printed book).
 
 ## Setup & Running
 

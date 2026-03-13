@@ -57,4 +57,4 @@ pip install -r requirements.txt
 
 ## Origin
 
-GPU acceleration module from [metalcut](https://github.com/joaodotwork/metalcut). Collaboration with Linda van Deursen.
+GPU acceleration module from [metalcut](https://github.com/joaodotwork/metalcut). Independent iteration on a class assignment from Linda van Deursen (original exists as a printed book).
